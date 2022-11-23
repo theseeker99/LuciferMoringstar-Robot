@@ -26,9 +26,11 @@
 
 START_MESSAGE = """
 👋Hello {mention}..!
-It's Power Full [{name}](t.me/{username}) Here 😎
+It's Power Full [{name}](t.me/{username}) v2.0 Here 😎
+You can use me in privet message or group. Choice is yours
 Add Me To Your Group And Make Sure I'm an Admin There..!
-And Enjoy My Pever Show..! 🤪"""
+And Enjoy My Pever Show..! 🤪
+Plz type /support for more help🔥"""
 
 HELP_MESSAGE = """
 𝙷𝙴𝙻𝙻𝙾 {mention}
@@ -37,14 +39,13 @@ HELP_MESSAGE = """
 
 ABOUT_MESSAGE = """
 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁
-𝙱𝙾𝚃 𝙱𝚁𝙰𝙽𝙲𝙷 : 𝙻𝚄𝙲𝙸𝙵𝙴𝚁
-𝙱𝙾𝚃 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳](t.me/PR0FESS0R_99)
+𝙱𝙾𝚃 𝙱𝚁𝙰𝙽𝙲𝙷 : Movie Seeker v2.0
+𝙱𝙾𝚃 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴](https://telegra.ph/MIT-License-09-19)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [The Seeker](t.me/The_Seeker_114)
 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [{name}](https://t.me/{username})
 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 : {py3_version}
 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 : {pyro_version}
 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : {version}
-𝚂𝙾𝚄𝚁𝙲𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴]({source})
 """
 
 SETTINGS_MESSAGE = """
@@ -61,10 +62,27 @@ REQUEST_MESSAGE = """
 **Requested By:** {mention}\n**Requested Name:** {query}\n™ {group_name}"""
 
 WELCOME_MESSAGE = """
-𝙷𝙴𝙻𝙻𝙾 {mention} 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 {group_name}"""
+𝙷𝙴𝙻𝙻𝙾 {mention} 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 {group_name}
+Please be nice to everyone and don't be shy to contact the admin of this group if you have any questions.✨❤️
+Join my Update channel for more info @The_Seeker_s_Cave"""
 
 FILECAPTION_MESSAGE = """
-• `{file_name}` \n 𝙹𝙾𝙸𝙽 : @Night_MovieZ"""
+┏━━━━•❅•°•❈•°•❅•━━━━┓
+✰👑🆃🅷🅴 🆂🅴🅴🅺🅴🆁'🆂 🅲🅰️🆅🅴👑✰
+┗━━━━•❅•°•❈•°•❅•━━━━┛
+🎭Proudly Presented By🎭
+@TSSC_Movie_Robot
+
+Join The Seeker Cave @The_Seeker_s_Cave for more help
+
+Requester :- {mention}
+
+File Name :- {file_name}
+
+Size :- {size}
+
+File Caption :- {caption}
+"""
 
 ADMIN_CMD_MESSAGE = """
 𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
@@ -79,7 +97,7 @@ GETFILE_TEXT = """
 \n𝙵𝙸𝙻𝙴𝙽𝙰𝙼𝙴 : `{file_name}`\n\n𝙵𝙸𝙻𝙴𝚂𝙸𝚉𝙴 : {file_size}"""
 
 NOT_SUB = """
-𝙸 𝙻𝙸𝙺𝙴 𝚈𝙾𝚄𝚁 𝚂𝙼𝙰𝚁𝚃𝙽𝙴𝚂𝚂, 𝙱𝚄𝚃 𝙳𝙾𝙽'𝚃 𝙱𝙴 𝙾𝚅𝙴𝚁𝚂𝙼𝙰𝚁𝚃 😤.\n 𝙵𝚒𝚛𝚜𝚝 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙼𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 😕"""              
+𝙸 𝙻𝙸𝙺𝙴 𝚈𝙾𝚄𝚁 𝚂𝙼𝙰𝚁𝚃𝙽𝙴𝚂𝚂, 𝙱𝚄𝚃 𝙳𝙾𝙽'𝚃 𝙱𝙴 𝙾𝚅𝙴𝚁𝚂𝙼𝙰𝚁𝚃 😤.\n 𝙵𝚒𝚛𝚜𝚝 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙼𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 😕"""
 
 USAGE_MESSAGE = """
 🤠 🄷🄾🅆 🅃🄾 🅄🅂🄴
