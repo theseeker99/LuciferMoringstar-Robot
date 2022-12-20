@@ -16,10 +16,10 @@ CREATOR_NAME = os.environ.get("CREATOR_NAME", "MrUnknown")
 CREATOR_USERNAME = os.environ.get("CREATOR_USERNAME", "@MrUnknown114")
 
 # Account
-API_HASH = os.environ.get("API_HASH", "275efd1380226cd34764e7a8030cb1a9")
-API_ID = os.environ.get("API_ID", "14769470")
+API_HASH = os.environ.get("API_HASH", "")
+API_ID = os.environ.get("API_ID", "")
 # About Bot
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5733037150:AAGqbdR9U_XTsp8S22dTRCmLJv2EOr34yG8")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 PICS = os.environ.get("PICS", "https://telegra.ph/file/17a668f74d66f7f783047.jpg")
 # Database
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "vpsteaster1")
